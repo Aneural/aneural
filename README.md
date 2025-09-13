@@ -1,16 +1,14 @@
-## Hi there 👋
+# Hi, I'm Aneural 👋
 
-<!--
-**Aneural/aneural** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Computer Engineering student passionate about hands-on learning and understanding technology at a deeper level.
 
-Here are some ideas to get you started:
+## Interests
+- Focused on C programming for its close-to-hardware approach and clarity.
+- Enjoys exploring game development and engine internals.
+- Interested in future work on compilers and graphics engines.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Philosophy
+- Values practical experience and research-driven learning.
+- Prefers building and understanding systems from the ground up.
+
+Let's connect and collaborate!
