@@ -1,4 +1,4 @@
-# Hi, I'm Aneural 👋
+# Hi, I'm Aneural
 
 🎓 Computer Engineering student passionate about hands-on learning and understanding technology at a deeper level.
 
