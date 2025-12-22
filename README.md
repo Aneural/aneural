@@ -1,5 +1,3 @@
-# Hi, I'm Aneural
-
 🎓 Computer Engineering student passionate about hands-on learning and understanding technology at a deeper level.
 
 ## Interests
@@ -10,5 +8,3 @@
 ## Philosophy
 - Values practical experience and research-driven learning.
 - Prefers building and understanding systems from the ground up.
-
-Let's connect and collaborate!
